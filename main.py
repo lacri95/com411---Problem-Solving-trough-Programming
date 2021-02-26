@@ -1,1 +1,3 @@
-print("Bazzinga!")
+print("any thing i want")
+print('first step:"git add."')
+print("second step: git commit -m" "your message")
